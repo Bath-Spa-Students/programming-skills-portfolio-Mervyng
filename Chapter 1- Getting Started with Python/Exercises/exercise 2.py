@@ -1,2 +1,6 @@
-print(default, Sep 10 2016, 08:21:44)
-[GCC 5.4.0 20160609]
+import sys
+print("Python version")
+print (sys.version)
+
+print("Version info.")
+print (sys.version_info)
