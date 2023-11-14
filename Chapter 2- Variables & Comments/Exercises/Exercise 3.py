@@ -1,4 +1,4 @@
-name = "\tEric Matthes\n"
+name = "\tMervyn George\n"
 
 print("Unmodified:")
 print(name)
