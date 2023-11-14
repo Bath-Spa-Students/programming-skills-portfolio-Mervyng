@@ -6,13 +6,13 @@ personalized with the person’s name.'''
 
 
 
-names = ['ron', 'tyler', 'dani']
+names = ['Ronnie, 'Tyler', 'Dani']
 
 msg = f"Hello, {names[0].title()}!"
 print(msg)
 
-msg = f"Hello, {names[1].title()}!"
+msg = f"HI, {names[1].title()}!"
 print(msg)
 
-msg = f"Hello, {names[2].title()}!"
+msg = f"Hello! How are you?, {names[2].title()}!"
 print(msg)
